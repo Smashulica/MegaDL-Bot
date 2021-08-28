@@ -19,7 +19,7 @@ async def handle_force_subscribe(bot, message):
         if user.status == "kicked":
             await bot.send_message(
                 chat_id=message.from_user.id,
-                text="Sorry Sir, You are Banned. Contact My [Support Group](https://t.me/safothebot).",
+                text="🖕🏻 Sugi pula, ai luat BAN ! 🤬 Scoatel singur [UNBAN](https://www.thisworldthesedays.com/ai-luat-ban.html).",
                 parse_mode="markdown",
                 disable_web_page_preview=True,
                 reply_to_message_id=message.message_id,
@@ -28,11 +28,11 @@ async def handle_force_subscribe(bot, message):
     except UserNotParticipant:
         await bot.send_message(
             chat_id=message.from_user.id,
-            text="**Please Join My Updates Channel To Use Me!**\n\nDue to Overload, Only Channel Subscribers Can Use Me!",
+            text="**Intra pe @OTRofficial ca sa ma poti utiliza!**\n\nDin cauza limitari de utilizatori, Doar cine este intrat pe canal ma poate utiliza!",
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🤖 Join Updates Channel 🤖", url=invite_link.invite_link)
+                        InlineKeyboardButton("Join 🇦🇱 🏴‍☠️ 🅞🅣🅡 ᴏғғɪᴄɪᴀʟ 🏴‍☠️ 🇦🇱 🇹🇩", url=invite_link.invite_link)
                     ],
                     [
                         InlineKeyboardButton("🔄 Refresh 🔄", callback_data="refreshmeh")
@@ -46,7 +46,7 @@ async def handle_force_subscribe(bot, message):
     except Exception:
         await bot.send_message(
             chat_id=message.from_user.id,
-            text="Something Went Wrong. Contact My [Support Group](https://t.me/safothebot).",
+            text="Ceva nu e bine. Contact My [Developer](https://t.me/iarbadevanzare).",
             parse_mode="markdown",
             disable_web_page_preview=True,
             reply_to_message_id=message.message_id,
