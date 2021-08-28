@@ -33,7 +33,7 @@ class TEXT:
 """
 
   HELP_USER = """
-Eu sunt **{bot_name}**\n\nAcest bot poate descarca fisiere & video de pe linkurile Mega si sa le incarce pe Telegram.\nDoar trimite un link Mega.nz (nu folder) si asteapta sa vezi magia🔮\nPoti oricand sa adaugi sau sa modifici un text: doar alege un tip de fisier sau video deja trimis de mine dupa care poti face forward la un telegraph cu textul dorit ca raspuns la acesta si el va aparea sub video 😁!\n\nAcest bot poate descarca fisiere si video din linkuri MEGA.co.nz si sa le incarce pe Telegram.\nDoar trimite orice link MEGA.nz si asteapta sa vezi magia.\nPoti oricand sa adaugi sau sa modifici un text: doar alege un tip de fisier sau video deja trimis de mine dupa care poti face forward la un telegraph cu textul dorit ca raspuns la acesta si el va aparea sub video 😁!\n**Made With 💪🏻 By @OTRportal! 🔥**
+Eu sunt **{bot_name}**\n\nAcest bot poate descarca fisiere & video de pe linkurile Mega si sa le incarce pe Telegram.\nDoar trimite un link Mega.nz (nu folder) si asteapta sa vezi magia🔮\n\n**Poti oricand sa adaugi sau sa modifici un text:** doar alege un tip de fisier sau video deja trimis de mine dupa care poti face forward la un **telegraph cu textul dorit** ca raspuns la acesta si el va aparea sub video 😁!\n**Made With 💪🏻 By @OTRportal! 🔥**
 """
 
   START_TEXT = """
