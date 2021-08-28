@@ -25,11 +25,11 @@ class TEXT:
 
 📡 **Sunt Hostat pe:** [Heroku](https://heroku.com)
 
-🧑‍💻 **Developer:** [Safone](https://t.me/iarbadevanzare)
+🧑‍💻 **Developer:** [Iarbadevanzare](https://t.me/iarbadevanzare)
 
-👥 **Grup Support:** [SafoTheBot](https://t.me/otrofficial)
+👥 **Grup Support:** [🇦🇱 🏴‍☠️ 🅞🅣🅡 ᴏғғɪᴄɪᴀʟ 🏴‍☠️ 🇦🇱 🇹🇩](https://t.me/otrofficial)
 
-📢 **Canalele noastre si boti:** [🇦🇱 🏴‍☠️ 🅞🅣🅡 ᴏғғɪᴄɪᴀʟ 🏴‍☠️ 🇦🇱 🇹🇩](https://t.me/OTRportal)
+📢 **Canalele noastre si boti:** [🇷🇴 Portal ❌ OTR 🇦🇱](https://t.me/OTRportal)
 """
 
   HELP_USER = """
